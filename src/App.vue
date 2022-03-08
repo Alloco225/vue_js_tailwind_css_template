@@ -8,7 +8,7 @@
 
 
 <script>
-import store from '@/store/zeromalaria/index.js'
+import store from '@/store/index.js'
 export default {
   provide: {'ss': store},
 }
